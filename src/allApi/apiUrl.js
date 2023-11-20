@@ -1,0 +1,1 @@
+export const Api_url = 'https://products-api-cwck.onrender.com/products';
